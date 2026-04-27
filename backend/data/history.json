@@ -1,0 +1,527 @@
+[
+  {
+    "prompt": "attack on titan but darker",
+    "response": [
+      {
+        "title": "Attack on Titan",
+        "genres": [
+          "action",
+          "dark"
+        ],
+        "rating": 9.1,
+        "description": "Humans fight Titans",
+        "score": 8.28,
+        "reason": "matched dark"
+      },
+      {
+        "title": "Death Note",
+        "genres": [
+          "dark",
+          "psychological"
+        ],
+        "rating": 9.0,
+        "description": "Notebook kills people",
+        "score": 8.02,
+        "reason": "matched dark"
+      },
+      {
+        "title": "Haikyuu",
+        "genres": [
+          "sports",
+          "comedy"
+        ],
+        "rating": 8.8,
+        "description": "Volleyball team",
+        "score": 4.7,
+        "reason": "general match"
+      }
+    ]
+  },
+  {
+    "prompt": "I love classroom of the elite give me recommendations",
+    "response": [
+      {
+        "title": "Haikyuu",
+        "genres": [
+          "sports",
+          "comedy"
+        ],
+        "rating": 8.8,
+        "description": "Volleyball team",
+        "score": 5.15,
+        "reason": "general match"
+      },
+      {
+        "title": "Death Note",
+        "genres": [
+          "dark",
+          "psychological"
+        ],
+        "rating": 9.0,
+        "description": "Notebook kills people",
+        "score": 5.02,
+        "reason": "general match"
+      },
+      {
+        "title": "Attack on Titan",
+        "genres": [
+          "action",
+          "dark"
+        ],
+        "rating": 9.1,
+        "description": "Humans fight Titans",
+        "score": 4.75,
+        "reason": "general match"
+      }
+    ]
+  },
+  {
+    "prompt": "give me anime like solo leveling",
+    "response": [
+      {
+        "title": "Attack on Titan",
+        "genres": [
+          "action",
+          "dark"
+        ],
+        "rating": 9.1,
+        "description": "Humans fight Titans",
+        "score": 5.18,
+        "reason": "general match"
+      },
+      {
+        "title": "Haikyuu",
+        "genres": [
+          "sports",
+          "comedy"
+        ],
+        "rating": 8.8,
+        "description": "Volleyball team",
+        "score": 5.02,
+        "reason": "general match"
+      },
+      {
+        "title": "Death Note",
+        "genres": [
+          "dark",
+          "psychological"
+        ],
+        "rating": 9.0,
+        "description": "Notebook kills people",
+        "score": 4.92,
+        "reason": "general match"
+      }
+    ]
+  },
+  {
+    "prompt": "give me anime like spy family",
+    "response": [
+      {
+        "title": "Death Note",
+        "genres": [
+          "dark",
+          "psychological"
+        ],
+        "rating": 9.0,
+        "description": "Notebook kills people",
+        "score": 5.47,
+        "reason": "general match"
+      },
+      {
+        "title": "Attack on Titan",
+        "genres": [
+          "action",
+          "dark"
+        ],
+        "rating": 9.1,
+        "description": "Humans fight Titans",
+        "score": 5.36,
+        "reason": "general match"
+      },
+      {
+        "title": "Haikyuu",
+        "genres": [
+          "sports",
+          "comedy"
+        ],
+        "rating": 8.8,
+        "description": "Volleyball team",
+        "score": 4.8,
+        "reason": "general match"
+      }
+    ]
+  },
+  {
+    "prompt": "give me romance",
+    "response": [
+      {
+        "title": "Toradora",
+        "genres": [
+          "romance",
+          "comedy"
+        ],
+        "rating": 8.3,
+        "description": "Romance school story",
+        "score": 7.42,
+        "reason": "matched romance"
+      },
+      {
+        "title": "Haikyuu",
+        "genres": [
+          "sports",
+          "comedy"
+        ],
+        "rating": 8.8,
+        "description": "Volleyball team",
+        "score": 5.03,
+        "reason": "general match"
+      },
+      {
+        "title": "Death Note",
+        "genres": [
+          "dark",
+          "psychological"
+        ],
+        "rating": 9.0,
+        "description": "Notebook kills people",
+        "score": 4.78,
+        "reason": "general match"
+      }
+    ]
+  },
+  {
+    "prompt": "Hello",
+    "response": [
+      {
+        "title": "Attack on Titan",
+        "genres": [
+          "action",
+          "dark"
+        ],
+        "rating": 9.1,
+        "description": "Humans fight Titans",
+        "score": 5.17,
+        "reason": "general match"
+      },
+      {
+        "title": "Haikyuu",
+        "genres": [
+          "sports",
+          "comedy"
+        ],
+        "rating": 8.8,
+        "description": "Volleyball team",
+        "score": 4.82,
+        "reason": "general match"
+      },
+      {
+        "title": "Death Note",
+        "genres": [
+          "dark",
+          "psychological"
+        ],
+        "rating": 9.0,
+        "description": "Notebook kills people",
+        "score": 4.74,
+        "reason": "general match"
+      }
+    ]
+  },
+  {
+    "prompt": "hello there",
+    "response": [
+      {
+        "title": "Attack on Titan",
+        "genres": [
+          "action",
+          "dark"
+        ],
+        "rating": 9.1,
+        "description": "Humans fight Titans",
+        "score": 5.51,
+        "reason": "general match"
+      },
+      {
+        "title": "Death Note",
+        "genres": [
+          "dark",
+          "psychological"
+        ],
+        "rating": 9.0,
+        "description": "Notebook kills people",
+        "score": 5.09,
+        "reason": "general match"
+      },
+      {
+        "title": "Toradora",
+        "genres": [
+          "romance",
+          "comedy"
+        ],
+        "rating": 8.3,
+        "description": "Romance school story",
+        "score": 5.02,
+        "reason": "general match"
+      }
+    ]
+  },
+  {
+    "prompt": "Dark action anime ",
+    "response": [
+      {
+        "title": "Attack on Titan",
+        "genres": [
+          "action",
+          "dark"
+        ],
+        "rating": 9.1,
+        "description": "Humans fight Titans",
+        "score": 10.56,
+        "reason": "matched action, matched dark"
+      },
+      {
+        "title": "Death Note",
+        "genres": [
+          "dark",
+          "psychological"
+        ],
+        "rating": 9.0,
+        "description": "Notebook kills people",
+        "score": 8.15,
+        "reason": "matched dark"
+      },
+      {
+        "title": "Haikyuu",
+        "genres": [
+          "sports",
+          "comedy"
+        ],
+        "rating": 8.8,
+        "description": "Volleyball team",
+        "score": 5.21,
+        "reason": "general match"
+      }
+    ]
+  },
+  {
+    "prompt": "Romance",
+    "response": [
+      {
+        "title": "Toradora",
+        "genres": [
+          "romance",
+          "comedy"
+        ],
+        "rating": 8.3,
+        "description": "Romance school story",
+        "score": 7.84,
+        "reason": "matched romance"
+      },
+      {
+        "title": "Death Note",
+        "genres": [
+          "dark",
+          "psychological"
+        ],
+        "rating": 9.0,
+        "description": "Notebook kills people",
+        "score": 4.74,
+        "reason": "general match"
+      },
+      {
+        "title": "Attack on Titan",
+        "genres": [
+          "action",
+          "dark"
+        ],
+        "rating": 9.1,
+        "description": "Humans fight Titans",
+        "score": 4.68,
+        "reason": "general match"
+      }
+    ]
+  },
+  {
+    "prompt": "Give shows like solo leveling",
+    "response": [
+      {
+        "title": "Death Note",
+        "genres": [
+          "dark",
+          "psychological"
+        ],
+        "moods": [
+          "smart"
+        ],
+        "rating": 9.0,
+        "description": "Notebook of death",
+        "score": 5.48,
+        "reason": "good match"
+      },
+      {
+        "title": "Attack on Titan",
+        "genres": [
+          "action",
+          "dark"
+        ],
+        "moods": [
+          "intense"
+        ],
+        "rating": 9.1,
+        "description": "Humans fight Titans",
+        "score": 5.1,
+        "reason": "good match"
+      },
+      {
+        "title": "Haikyuu",
+        "genres": [
+          "sports",
+          "comedy"
+        ],
+        "moods": [
+          "hype"
+        ],
+        "rating": 8.8,
+        "description": "Volleyball team",
+        "score": 4.8,
+        "reason": "good match"
+      },
+      {
+        "title": "Toradora",
+        "genres": [
+          "romance",
+          "comedy"
+        ],
+        "moods": [
+          "emotional"
+        ],
+        "rating": 8.3,
+        "description": "School romance",
+        "score": 4.74,
+        "reason": "good match"
+      }
+    ]
+  },
+  {
+    "prompt": "how about like attack on titan",
+    "response": [
+      {
+        "title": "Attack on Titan",
+        "genres": [
+          "action",
+          "dark"
+        ],
+        "moods": [
+          "intense"
+        ],
+        "rating": 9.1,
+        "description": "Humans fight Titans",
+        "score": 4.98,
+        "reason": "good match"
+      },
+      {
+        "title": "Death Note",
+        "genres": [
+          "dark",
+          "psychological"
+        ],
+        "moods": [
+          "smart"
+        ],
+        "rating": 9.0,
+        "description": "Notebook of death",
+        "score": 4.94,
+        "reason": "good match"
+      },
+      {
+        "title": "Haikyuu",
+        "genres": [
+          "sports",
+          "comedy"
+        ],
+        "moods": [
+          "hype"
+        ],
+        "rating": 8.8,
+        "description": "Volleyball team",
+        "score": 4.76,
+        "reason": "good match"
+      },
+      {
+        "title": "Toradora",
+        "genres": [
+          "romance",
+          "comedy"
+        ],
+        "moods": [
+          "emotional"
+        ],
+        "rating": 8.3,
+        "description": "School romance",
+        "score": 4.16,
+        "reason": "good match"
+      }
+    ]
+  },
+  {
+    "prompt": "give me some romance anime",
+    "response": [
+      {
+        "title": "Toradora",
+        "genres": [
+          "romance",
+          "comedy"
+        ],
+        "moods": [
+          "emotional"
+        ],
+        "rating": 8.3,
+        "description": "School romance",
+        "score": 8.44,
+        "reason": "matched romance"
+      },
+      {
+        "title": "Attack on Titan",
+        "genres": [
+          "action",
+          "dark"
+        ],
+        "moods": [
+          "intense"
+        ],
+        "rating": 9.1,
+        "description": "Humans fight Titans",
+        "score": 5.14,
+        "reason": "good match"
+      },
+      {
+        "title": "Death Note",
+        "genres": [
+          "dark",
+          "psychological"
+        ],
+        "moods": [
+          "smart"
+        ],
+        "rating": 9.0,
+        "description": "Notebook of death",
+        "score": 4.53,
+        "reason": "good match"
+      },
+      {
+        "title": "Haikyuu",
+        "genres": [
+          "sports",
+          "comedy"
+        ],
+        "moods": [
+          "hype"
+        ],
+        "rating": 8.8,
+        "description": "Volleyball team",
+        "score": 4.51,
+        "reason": "good match"
+      }
+    ]
+  }
+]
